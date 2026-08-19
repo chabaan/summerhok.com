@@ -1,0 +1,41 @@
+---
+title: "Quick Crockpot Hawaiian Chicken"
+meta: "Learn how to make Quick Crockpot Hawaiian Chicken with a tropical twist. This easy slow cooker recipe delivers tender, flavorful chicken in under 3 hours."
+category: "Summer Crockpot Dinners"
+author: "Harper Lewis"
+image: "https://summerhok.com/wp-content/uploads/2026/06/quick-crockpot-hawaiian-chicken.webp"
+pubDate: "2026-07-13T22:39:19Z"
+recipe: "{\"title\": \"Quick Crockpot Hawaiian Chicken\", \"ingredients\": [\"1.5 lbs boneless (skinless chicken thighs)\", \"1 cup pineapple chunks (fresh or canned, drained)\", \"1/2 cup low-sodium soy sauce\", \"1/3 cup brown sugar\", \"1/4 cup chicken broth\", \"2 tablespoons rice vinegar\", \"3 cloves garlic (minced)\", \"1 tablespoon fresh ginger (grated)\", \"1 tablespoon cornstarch\", \"2 tablespoons water\", \"Sliced green onions and sesame seeds for garnish\"], \"instructions\": [\"In a small bowl, whisk together soy sauce, brown sugar, chicken broth, rice vinegar, minced garlic, and grated ginger until sugar dissolves.\", \"Place chicken thighs in the slow cooker in a single layer. Pour the sauce mixture over the chicken.\", \"Add pineapple chunks around and on top of the chicken.\", \"Cover and cook on HIGH for 2.5 to 3 hours, or until chicken is tender and reaches 165°F internally.\", \"Remove chicken and pineapple with tongs; set aside on a plate.\", \"In a small bowl, mix cornstarch and water to form a slurry. Stir into the liquid in the slow cooker.\", \"Turn slow cooker to HIGH, cover, and cook for 10-15 minutes until sauce thickens.\", \"Shred chicken with two forks, then return to the sauce along with pineapple. Stir to coat.\", \"Serve over rice, garnished with green onions and sesame seeds.\"], \"equipment\": [\"Slow cooker (crockpot)\", \"small bowl\", \"whisk\", \"tongs\", \"cutting board\", \"knife\"], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"180\", \"total_time\": \"190\", \"calories\": \"350\"}"
+---
+
+<p>The aroma hits you first—sweet pineapple mingling with savory soy, a promise of something both familiar and exotic. This isn't your average slow cooker chicken. It's a quick version that delivers big flavor without an all-day commitment. I've honed this method to keep the chicken tender and the sauce glossy, not watery. Let's get into the technique.</p>
+<figure><img src="https://cdn.midjourney.com/61cd5507-8e4a-4f2f-9b86-1863f008f9c0/0_2.png" alt="Raw chicken thighs and pineapple chunks in a slow cooker with sauce poured over them." /></figure>
+<h2>Why This Works in 3 Hours</h2><p>Most slow cooker recipes take 6-8 hours, but chicken thighs are forgiving. Cooking on HIGH for 2.5-3 hours is enough to break down the meat without drying it out. The key is the sugar-to-soy ratio: I use 1 part brown sugar to 1.5 parts soy sauce. This balances sweetness and saltiness so the pineapple doesn't overpower. Too much sugar and it burns; too little and it's bland.</p><h2>Choosing Your Chicken</h2><p>Boneless, skinless thighs are ideal—they stay moist. If you use breasts, watch the temperature closely. I insert a probe thermometer after 2 hours; the target is 165°F. Overcooking makes the meat stringy. Also, trim excess fat, but leave a little for flavor.</p><h2>The Sauce: A Simple Emulsion</h2><p>Whisk the soy sauce, broth, vinegar, and brown sugar until the sugar dissolves completely. This prevents graininess. Grate the ginger on a microplane—it releases more oils than chopping. Mince the garlic finely; large pieces can become bitter. Pour over the chicken, then add pineapple. Don't stir—layering helps the chicken cook evenly.</p><h2>Thickening Without Lumps</h2><p>After cooking, remove the chicken and pineapple. The liquid will be thin. Mix cornstarch with cold water (1:2 ratio) to form a slurry. Pour it into the hot liquid while whisking. Then cook on HIGH, uncovered, for 10 minutes. The sauce will transform from watery to syrupy. If it's too thin, add another teaspoon of cornstarch mixed with water.</p><h2>Common Mistakes to Avoid</h2><p>First, don't open the lid during cooking—heat escapes and extends time. Second, don't skip the thickening step; otherwise, you'll have soup. Third, add pineapple at the start, not the end. Canned pineapple works fine; just drain it well. Fresh pineapple can be used, but it may release more liquid, so reduce broth by a tablespoon.</p><h2>Serving and Variations</h2><p>Serve over steamed jasmine rice to soak up the sauce. Garnish with green onions and sesame seeds for crunch. For a spicy kick, add a sliced red chili or a teaspoon of sriracha to the sauce. For a tropical twist, swap chicken for pork shoulder (cook 4 hours on HIGH).</p><h2>Takeaway</h2><p>This Quick Crockpot Hawaiian Chicken proves that a slow cooker doesn't need all day to create something special. With the right ratio, a simple thickening technique, and attention to temperature, you get a meal that tastes like a vacation—without the wait. Keep the lid closed, trust the process, and enjoy.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use chicken breasts instead of thighs?</h3>
+<p>Yes, but reduce cook time to 2-2.5 hours on HIGH to avoid drying out. Check internal temperature reaches 165°F.</p>
+<h3>Can I make this ahead of time?</h3>
+<p>Absolutely. The flavors deepen overnight. Cook, cool, and refrigerate. Reheat gently before serving.</p>
+<h3>Is this recipe gluten-free?</h3>
+<p>Use tamari or coconut aminos in place of soy sauce to make it gluten-free. Ensure your chicken broth is also gluten-free.</p>
+
+
+<!--WPRM Recipe 320-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Quick Crockpot Hawaiian Chicken</h2>
+	<img class="wprm-fallback-recipe-image" src="https://summerhok.com/wp-content/uploads/2026/06/quick-crockpot-hawaiian-chicken-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		Tender chicken thighs simmered in a sweet and tangy pineapple-soy sauce, ready in just 3 hours. Perfect for a busy weeknight.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>slow cooker (crockpot)</li><li>small bowl</li><li>whisk</li><li>tongs</li><li>cutting board</li><li>knife</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1.5 lbs boneless (skinless chicken thighs)</li><li>1 cup pineapple chunks (fresh or canned, drained)</li><li>1/2 cup low-sodium soy sauce</li><li>1/3 cup brown sugar</li><li>1/4 cup chicken broth</li><li>2 tablespoons rice vinegar</li><li>3 cloves garlic (minced)</li><li>1 tablespoon fresh ginger (grated)</li><li>1 tablespoon cornstarch</li><li>2 tablespoons water</li><li>Sliced green onions and sesame seeds for garnish</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>In a small bowl, whisk together soy sauce, brown sugar, chicken broth, rice vinegar, minced garlic, and grated ginger until sugar dissolves.</li><li>Place chicken thighs in the slow cooker in a single layer. Pour the sauce mixture over the chicken.</li><li>Add pineapple chunks around and on top of the chicken.</li><li>Cover and cook on HIGH for 2.5 to 3 hours, or until chicken is tender and reaches 165°F internally.</li><li>Remove chicken and pineapple with tongs; set aside on a plate.</li><li>In a small bowl, mix cornstarch and water to form a slurry. Stir into the liquid in the slow cooker.</li><li>Turn slow cooker to HIGH, cover, and cook for 10-15 minutes until sauce thickens.</li><li>Shred chicken with two forks, then return to the sauce along with pineapple. Stir to coat.</li><li>Serve over rice, garnished with green onions and sesame seeds.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For a thicker sauce, increase cornstarch to 1.5 tablespoons. Leftovers keep in an airtight container in the fridge for up to 3 days. Reheat gently on the stovetop or microwave.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Main Course</div><div class="wprm-fallback-recipe-meta-cuisine">Hawaiian-inspired</div>	</div>
+</div>
+<!--End WPRM Recipe-->
