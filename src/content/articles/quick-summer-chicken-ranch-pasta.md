@@ -3,7 +3,7 @@ title: "Quick Summer Chicken Ranch Pasta"
 meta: "Learn how to make a quick summer chicken ranch pasta with a creamy, tangy dressing. This easy pasta salad is perfect for hot days."
 category: "Easy Summer Dinners"
 author: "Ruby Sanders"
-image: "https://summerhok.com/wp-content/uploads/2026/06/quick-summer-chicken-ranch-pasta.webp"
+image: "/images/quick-summer-chicken-ranch-pasta.webp"
 pubDate: "2026-07-21T19:48:01Z"
 recipe: "{\"title\": \"Quick Summer Chicken Ranch Pasta\", \"ingredients\": [\"8 oz 225g rotini or fusilli pasta\", \"2 cups cooked chicken (shredded or diced)\", \"1/2 cup plain Greek yogurt\", \"1/4 cup mayonnaise\", \"2 tbsp buttermilk or milk\", \"1 packet (1 oz ranch seasoning mix)\", \"1/2 cup diced celery\", \"1/2 cup diced red bell pepper\", \"1/4 cup chopped fresh dill (or 1 tbsp dried)\", \"Salt and black pepper to taste\"], \"instructions\": [\"Cook pasta according to package directions in salted boiling water until al dente. Drain and rinse under cold water to stop cooking. Set aside.\", \"In a large mixing bowl, whisk together Greek yogurt, mayonnaise, buttermilk, ranch seasoning mix, and dill until smooth.\", \"Add the cooled pasta, shredded chicken, celery, and red bell pepper to the bowl. Toss gently to coat everything evenly.\", \"Season with salt and black pepper to taste. Cover and refrigerate for at least 30 minutes to let the flavors meld.\", \"Serve cold, garnished with extra dill if desired.\"], \"equipment\": [\"large pot\", \"colander\", \"large mixing bowl\", \"whisk\", \"cutting board\", \"knife\", \"measuring cups and spoons\"], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"10\", \"total_time\": \"25\", \"calories\": \"450\"}"
 ---

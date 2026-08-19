@@ -3,7 +3,7 @@ title: "Family-Favorite Summer Spinach Strawberry Salad"
 meta: "Make the best family-favorite summer spinach strawberry salad with a tangy poppy seed dressing. Get the exact ratio for perfectly sweet berries and crisp greens"
 category: "Easy Summer Dinners"
 author: "Ruby Sanders"
-image: "https://summerhok.com/wp-content/uploads/2026/06/family-favorite-summer-spinach-strawberr.webp"
+image: "/images/family-favorite-summer-spinach-strawberry-salad.webp"
 pubDate: "2026-07-07T07:38:49Z"
 recipe: "{\"title\": \"Family-Favorite Summer Spinach Strawberry Salad\", \"ingredients\": [\"6 cups fresh baby spinach (washed and dried, 1 pint fresh strawberries, hulled and sliced, 1/2 cup crumbled goat cheese, 1/2 cup pecan halves, 1/4 cup extra-virgin olive oil, 2 tablespoons apple cider vinegar, 1 tablespoon honey, 1 teaspoon poppy seeds, 1/4 teaspoon salt, 1/8 teaspoon black pepper)\"], \"instructions\": [\"Toast the pecans in a small dry skillet over medium heat, shaking often, until fragrant (about 3-4 minutes). Let cool completely. 2. In a small bowl, whisk together olive oil, apple cider vinegar, honey, poppy seeds, salt, and pepper until emulsified. 3. Place spinach in a large salad bowl. Add sliced strawberries, crumbled goat cheese, and cooled pecans. 4. Drizzle dressing over the salad and toss gently to coat. Serve immediately.\"], \"equipment\": [\"Large salad bowl\", \"small skillet\", \"chef's knife\", \"cutting board\", \"whisk\", \"small bowl or jar for dressing\"], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"5\", \"total_time\": \"20\", \"calories\": \"280\"}"
 ---

@@ -3,7 +3,7 @@ title: "Juicy Crockpot Teriyaki Chicken: A Simple Weeknight Fix"
 meta: "Learn how to make juicy crockpot teriyaki chicken with a secret ratio for balanced, glossy sauce. No burning, no blandness—just real, tender results."
 category: "Summer Crockpot Dinners"
 author: "Ruby Sanders"
-image: "https://summerhok.com/wp-content/uploads/2026/06/juicy-crockpot-teriyaki-chicken-a-simple.webp"
+image: "/images/juicy-crockpot-teriyaki-chicken-a-simple-weeknight-fix.webp"
 pubDate: "2026-07-26T22:07:09Z"
 ---
 

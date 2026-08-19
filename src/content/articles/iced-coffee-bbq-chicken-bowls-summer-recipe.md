@@ -3,7 +3,7 @@ title: "Iced Coffee BBQ Chicken Bowls: Summer Recipe"
 meta: "Make light summer BBQ chicken bowls with a coffee twist. Easy iced coffee glaze recipe for smoky-sweet flavor, perfect for warm weather meals."
 category: "Easy Summer Dinners"
 author: "Harper Lewis"
-image: "https://summerhok.com/wp-content/uploads/2026/06/iced-coffee-bbq-chicken-bowls-summer-rec.webp"
+image: "/images/iced-coffee-bbq-chicken-bowls-summer-recipe.webp"
 pubDate: "2026-07-25T21:02:04Z"
 ---
 

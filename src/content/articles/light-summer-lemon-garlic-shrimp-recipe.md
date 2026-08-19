@@ -3,7 +3,7 @@ title: "Light Summer Lemon Garlic Shrimp Recipe"
 meta: "Learn my technique for light summer lemon garlic shrimp—a quick, crave-worthy dish with a bright citrus finish and no heavy butter."
 category: "Easy Summer Dinners"
 author: "Ruby Sanders"
-image: "https://summerhok.com/wp-content/uploads/2026/06/light-summer-lemon-garlic-shrimp-recipe.webp"
+image: "/images/light-summer-lemon-garlic-shrimp-recipe.webp"
 pubDate: "2026-07-22T07:05:32Z"
 recipe: "{\"title\": \"Light Summer Lemon Garlic Shrimp\", \"ingredients\": [\"1 lb large shrimp (21-25 count, peeled and deveined)\", \"2 cloves garlic (minced)\", \"1 lemon (zest and juice)\", \"2 tbsp extra-virgin olive oil\", \"1/4 cup low-sodium chicken or vegetable broth\", \"1/4 tsp red pepper flakes (optional)\", \"Salt and black pepper to taste\", \"2 tbsp fresh parsley (chopped)\"], \"instructions\": [\"Pat shrimp dry with paper towels. Season lightly with salt and pepper.\", \"Heat olive oil in a large skillet over medium-high heat until shimmering.\", \"Add shrimp in a single layer. Cook 1 minute per side, until pink and just opaque. Transfer to a plate.\", \"Reduce heat to medium. Add garlic and red pepper flakes; stir 30 seconds until fragrant.\", \"Pour in broth and lemon juice, scraping up browned bits. Simmer 1 minute.\", \"Return shrimp to skillet. Toss with lemon zest and parsley. Cook 30 seconds. Serve immediately.\"], \"equipment\": [\"large skillet\", \"tongs\", \"microplane or zester\", \"small bowl\", \"chef's knife\", \"cutting board\"], \"servings\": \"2\", \"prep_time\": \"10\", \"cook_time\": \"5\", \"total_time\": \"15\", \"calories\": \"220\"}"
 ---

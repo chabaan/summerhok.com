@@ -3,7 +3,7 @@ title: "Foolproof Summer Pizza Night: Iced Coffee Pairing Tips"
 meta: "Foolproof Summer Pizza Night made easy with a surprising iced coffee pairing. Get exact brew ratios, prep timing, and a pro tip for balancing acidity."
 category: "Easy Summer Dinners"
 author: "Harper Lewis"
-image: "https://summerhok.com/wp-content/uploads/2026/06/foolproof-summer-pizza-night-iced-coffee.webp"
+image: "/images/foolproof-summer-pizza-night-iced-coffee-pairing-tips.webp"
 pubDate: "2026-07-08T13:54:11Z"
 recipe: "{\"title\": \"Cold Brew Float with Pizza\", \"ingredients\": [\"4 oz cold brew concentrate (1:4 coffee-to-water ratio, steeped 18 hours)\", \"8 oz cold water\", \"2 scoops vanilla ice cream\", \"Ice cubes\", \"Optional: pinch of flaky sea salt\"], \"instructions\": [\"Brew cold brew concentrate 24 hours ahead: mix 1 cup coarse-ground coffee with 4 cups cold water in a French press. Steep at room temperature for 18 hours, then press and refrigerate.\", \"Fill two tall glasses with ice cubes.\", \"Pour 2 oz cold brew concentrate into each glass.\", \"Add 4 oz cold water to each glass and stir gently.\", \"Top each with one scoop of vanilla ice cream.\", \"Sprinkle a tiny pinch of flaky sea salt over the foam for balance.\", \"Serve immediately alongside a slice of pizza.\"], \"equipment\": [\"French press\", \"tall glasses\", \"long spoon\", \"ice cube tray\"], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"180\"}"
 ---
